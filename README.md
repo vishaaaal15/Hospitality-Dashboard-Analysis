@@ -1,4 +1,3 @@
-# Hospitality-Dashboard-Analysis
 # Hospitality Dashboard Analysis
 
 ## Project Objective
