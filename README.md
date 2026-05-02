@@ -107,6 +107,8 @@ It reflects strong business analysis, reporting, and visualization skills releva
 ## Dashboard Preview
 
 (Excel Dashboard Screenshot.png)
+(Tableau Dashboard Screenshot.png)
+(Power BI Dashboard Screenshot.png)
 
 ---
 
